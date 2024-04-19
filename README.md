@@ -1,11 +1,9 @@
-### Hi Hoang Snowy 👋
+#### Hi Everyone 👋
+I'm Snowy. Let me tell you a bit about myself:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on | .NET | .NET Core | Azure |
-- 🌏 I am from Viet Nam
-- 📘 I’m currently learning Azure (Cloud Computing Services)
-- ⚡ Fun fact: I love watching football ⚽, playing game 🎮 and reading book 📖
-- ⛺ I very like traveling But Corona Virus makes everything under control ⚠️
-- 😁 I am very happy to make friends in Github
-
+- 🔭 I'm currently working with technologies such as .NET, .NET Core, and Azure.
+- 🌏 I'm from Vietnam.
+- 📘 I'm currently learning more about Azure and cloud computing services.
+- ⚡ A fun fact about me: I enjoy watching football (soccer), playing games, and reading books.
+- ⛺ I love traveling, but the COVID-19 pandemic has put things on hold for now.
+- 😁 I'm excited to make friends and connect with others on GitHub!
