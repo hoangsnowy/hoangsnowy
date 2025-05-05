@@ -9,7 +9,7 @@
 
 # Hi, I'm **Nguyễn Minh Hoàng** 👋
 
-**Senior Software Engineer**
+**Software Engineer**
 
 <p align="center">
   <a href="mailto:nguyenminhhoang.dit12@gmail.com"><img src="https://img.shields.io/badge/Email-nguyenminhhoang.dit12@gmail.com-blue?style=flat-square" alt="Email"></a>
