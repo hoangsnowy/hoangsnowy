@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/hoangsnowy"><img width="200" src="https://avatars.githubusercontent.com/u/ (replace-with-your-avatar-id)?v=4" alt="Hoang's Avatar"/></a>
+  <a href="https://github.com/hoangsnowy"><img width="200" src="https://avatars.githubusercontent.com/u/26712117?v=4" alt="Hoang's Avatar"/></a>
 </p>
 
 # Hi, I'm **Nguyễn Minh Hoàng** 👋
