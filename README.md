@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-* 🚀 **Current**: Dev Lead & Scrum Master at **Topicus Vietnam** (formerly Saigon Technology)
+* 🚀 **Current**: Dev Lead & Scrum Master
 * 🌐 **Experience**: 10+ years building **.NET Core**, **Azure**, **Microservices**, and **Event-Driven** systems.
 * 🛠️ **Passions**: Clean Architecture, TDD/BDD, CI/CD automation, coaching global teams.
 * 🎯 **Focus Areas**: ASP.NET Core, Kubernetes (AKS), Docker & Helm, RabbitMQ/NServiceBus, Azure DevOps, Playwright/E2E.
