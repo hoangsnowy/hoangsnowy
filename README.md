@@ -1,65 +1,98 @@
-<!--
-  Profile README for GitHub user hoangsnowy
-  Styled after a professional layout (e.g. thangchung)
--->
-
 <p align="center">
-  <a href="https://github.com/hoangsnowy"><img width="200" src="https://avatars.githubusercontent.com/u/26712117?v=4" alt="Hoang's Avatar"/></a>
+  <a href="https://github.com/hoangsnowy">
+    <img src="https://komarev.com/ghpvc/?username=hoangsnowy&color=brightgreen" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/hoangsnowy?tab=repositories">
+    <img src="https://img.shields.io/github/repo-size/hoangsnowy/hoangsnowy?color=blue" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/hoangsnowy?tab=stars">
+    <img src="https://img.shields.io/github/stars/hoangsnowy?style=social" alt="Stars" />
+  </a>
+  <a href="https://github.com/hoangsnowy?tab=followers">
+    <img src="https://img.shields.io/github/followers/hoangsnowy?style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/hoangsnowy?tab=followers">
+    <img src="https://img.shields.io/github/following/hoangsnowy?style=social" alt="Following" />
+  </a>
 </p>
 
-# Hi, I'm **Nguyễn Minh Hoàng** 👋
-
-**Software Engineer**
-
+<h1 align="center">Hi, I’m Nguyễn Minh Hoàng 👋</h1>
 <p align="center">
-  <a href="mailto:nguyenminhhoang.dit12@gmail.com"><img src="https://img.shields.io/badge/Email-nguyenminhhoang.dit12@gmail.com-blue?style=flat-square" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/hoangsnowy"><img src="https://img.shields.io/badge/LinkedIn-hoangsnowy-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/hoangsnowy"><img src="https://img.shields.io/badge/GitHub-hoangsnowy-black?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://dev.azure.com/"><img src="https://img.shields.io/badge/Azure%20DevOps--blue?style=flat-square&logo=azuredevops" alt="Azure DevOps"></a>
+  <em>Dev Lead &amp; Scrum Master&nbsp;| Software Engineer with 10+ years of .NET, Azure &amp; Microservices experience</em>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-* 🚀 **Current**: Dev Lead & Scrum Master
-* 🌐 **Experience**: 10+ years building **.NET Core**, **Azure**, **Microservices**, and **Event-Driven** systems.
-* 🛠️ **Passions**: Clean Architecture, TDD/BDD, CI/CD automation, coaching global teams.
-* 🎯 **Focus Areas**: ASP.NET Core, Kubernetes (AKS), Docker & Helm, RabbitMQ/NServiceBus, Azure DevOps, Playwright/E2E.
-
----
-
-## ⚡ Tech Stack & Tools
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins" />
-  <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright" />
+  <a href="mailto:your.email@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter" title="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-@your-twitter-blue?style=flat-square&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/c/your-channel" title="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube" alt="YouTube" />
+  </a>
 </p>
 
 ---
 
-## 📂 Pinned Repositories
+## 🧰 About Me
 
-1. [**BugTrackerSystem**](https://github.com/hoangsnowy/BugTrackerSystem) - End-to-end bug tracker with ASP.NET Core, Docker Compose & Playwright E2E tests.
-2. [**ErrorControlBlazorDemo**](https://github.com/hoangsnowy/ErrorControlBlazorDemo) - Demo of Parity, CRC & ARQ algorithms in Blazor WebAssembly.
-3. [**SmartPhoneAdvisor**](https://github.com/hoangsnowy/SmartPhoneAdvisor) - Expert system for smartphone recommendations using a rule engine.
+- 🔭 I’m currently leading a globally distributed team as Dev Lead & Scrum Master  
+- ⚙️ I build **.NET Core**, **Azure**, **Kubernetes** (AKS), **Docker**, **Helm**, **RabbitMQ**, **NServiceBus**, **Playwright/E2E**  
+- 🚀 Passionate about **Clean Architecture**, **TDD/BDD**, **CI/CD automation** & **coaching**  
+- 🌱 Always learning: **Event-Driven systems**, **Microservices**, **DevOps best practices**
+
 ---
 
-## 📈 GitHub Stats
+## 🔨 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/hoangsnowy"><img height="180" src="https://github-readme-stats.vercel.app/api?username=hoangsnowy&show_icons=true&theme=default" alt="Hoang's GitHub Stats" /></a>
-  <a href="https://github.com/hoangsnowy"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsnowy&layout=compact" alt="Top Languages" /></a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
 
-> "Sharing knowledge and building with passion!"
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/hoangsnowy/BugTrackerSystem" title="BugTrackerSystem">
+    <img src="https://img.shields.io/badge/BugTrackerSystem-ASP.NET%20Core-brightgreen?style=for-the-badge&logo=dotnet" alt="BugTrackerSystem" />
+  </a>
+  <a href="https://github.com/hoangsnowy/ErrorControlBlazorDemo" title="ErrorControlBlazorDemo">
+    <img src="https://img.shields.io/badge/ErrorControlBlazorDemo-Blazor%20WebAssembly-blue?style=for-the-badge&logo=blazor" alt="ErrorControlBlazorDemo" />
+  </a>
+  <a href="https://github.com/hoangsnowy/SmartPhoneAdvisor" title="SmartPhoneAdvisor">
+    <img src="https://img.shields.io/badge/SmartPhoneAdvisor-RuleEngine-red?style=for-the-badge&logo=c-sharp" alt="SmartPhoneAdvisor" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangsnowy&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" alt="Hoang's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsnowy&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangsnowy&theme=github&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+> “Sharing knowledge and building with passion!” 🚀
+
+---
+
+_Last updated: **May 11, 2025**_
