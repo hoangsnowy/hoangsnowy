@@ -11,9 +11,6 @@
   <a href="https://github.com/hoangsnowy?tab=followers">
     <img src="https://img.shields.io/github/followers/hoangsnowy?style=social" alt="Followers" />
   </a>
-  <a href="https://github.com/hoangsnowy?tab=followers">
-    <img src="https://img.shields.io/github/following/hoangsnowy?style=social" alt="Following" />
-  </a>
 </p>
 
 <h1 align="center">Hi, I’m Nguyễn Minh Hoàng 👋</h1>
