@@ -13,7 +13,7 @@
 
 * 🚀 **Current**: Software Engineer
 * 🌐 **Experience**: 10+ years building **.NET Core**, **Azure**, **Microservices**, and **Event-Driven** systems.
-* 🛠️ **Passions**: Clean Architecture, TDD/BDD, CI/CD automation, coaching global teams.
+* 🛠️ **Passions**: Clean Architecture, TDD/BDD, CI/CD automation.
 * 🎯 **Focus Areas**: ASP.NET Core, Kubernetes (AKS), Docker & Helm, RabbitMQ/NServiceBus, Azure DevOps, Playwright/E2E.
 
 ---
