@@ -40,7 +40,6 @@ A comprehensive **.NET Back-End Interview Question Bank** with dynamic follow-up
 
 ---
 
-## 📌 Pinned Repositories
 
 | Repository                                                                                   | Description                                                                                                     |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
@@ -48,22 +47,13 @@ A comprehensive **.NET Back-End Interview Question Bank** with dynamic follow-up
 | [ErrorControlBlazorDemo](https://github.com/hoangsnowy/ErrorControlBlazorDemo)               | Interactive demo of Parity, CRC & ARQ error-control algorithms in Blazor WebAssembly.                           |
 | [SmartPhoneAdvisor](https://github.com/hoangsnowy/SmartPhoneAdvisor)                         | Expert system for smartphone recommendations, powered by a C# rule engine and JSON-driven rule definitions.     |
 | [dotnetinterviewquestions](https://github.com/hoangsnowy/dotnetinterviewquestions)           | Curated .NET interview question bank with follow-ups and sample answers. **(Highlighted)**                      |
+| [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator)                           | Workflow orchestration system for managing complex business processes.                                          |
+| [pgp-sftp-lab-demo](https://github.com/hoangsnowy/pgp-sftp-lab-demo)                         | Demonstration of PGP encryption and SFTP integration with Vue frontend.                                         |
+| [pi-embedded-opt](https://github.com/hoangsnowy/pi-embedded-opt)                             | Embedded optimization solutions for Raspberry Pi and edge devices.                                              |
 
 ---
 
-## � All Repositories
-
-| Repository | Language | Description |
-|-----------|----------|-------------|
-| [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator) | C# | Workflow orchestration system for managing complex business processes. |
-| [TMS](https://github.com/hoangsnowy/TMS) | C# | Task Management System for team collaboration and project tracking. |
-| [pgp-sftp-lab-demo](https://github.com/hoangsnowy/pgp-sftp-lab-demo) | Vue | Demonstration of PGP encryption and SFTP integration with Vue frontend. |
-| [pi-embedded-opt](https://github.com/hoangsnowy/pi-embedded-opt) | C# | Embedded optimization solutions for Raspberry Pi and edge devices. |
-| [quanlysach_wpf](https://github.com/hoangsnowy/quanlysach_wpf) | C# | Library management system built with WPF (Windows Presentation Foundation). |
-
----
-
-## �📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoangsnowy&show_icons=true&theme=radical" alt="GitHub Stats" />
