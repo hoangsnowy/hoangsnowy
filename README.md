@@ -51,7 +51,19 @@ A comprehensive **.NET Back-End Interview Question Bank** with dynamic follow-up
 
 ---
 
-## 📈 GitHub Stats
+## � All Repositories
+
+| Repository | Language | Description |
+|-----------|----------|-------------|
+| [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator) | C# | Workflow orchestration system for managing complex business processes. |
+| [TMS](https://github.com/hoangsnowy/TMS) | C# | Task Management System for team collaboration and project tracking. |
+| [pgp-sftp-lab-demo](https://github.com/hoangsnowy/pgp-sftp-lab-demo) | Vue | Demonstration of PGP encryption and SFTP integration with Vue frontend. |
+| [pi-embedded-opt](https://github.com/hoangsnowy/pi-embedded-opt) | C# | Embedded optimization solutions for Raspberry Pi and edge devices. |
+| [quanlysach_wpf](https://github.com/hoangsnowy/quanlysach_wpf) | C# | Library management system built with WPF (Windows Presentation Foundation). |
+
+---
+
+## �📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoangsnowy&show_icons=true&theme=radical" alt="GitHub Stats" />
