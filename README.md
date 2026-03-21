@@ -43,13 +43,8 @@ A comprehensive **.NET Back-End Interview Question Bank** with dynamic follow-up
 
 | Repository                                                                                   | Description                                                                                                     |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [BugTrackerSystem](https://github.com/hoangsnowy/BugTrackerSystem)                           | Full-stack bug-tracking application using ASP.NET Core, Docker Compose, and Playwright E2E tests.               |
-| [ErrorControlBlazorDemo](https://github.com/hoangsnowy/ErrorControlBlazorDemo)               | Interactive demo of Parity, CRC & ARQ error-control algorithms in Blazor WebAssembly.                           |
-| [SmartPhoneAdvisor](https://github.com/hoangsnowy/SmartPhoneAdvisor)                         | Expert system for smartphone recommendations, powered by a C# rule engine and JSON-driven rule definitions.     |
-| [dotnetinterviewquestions](https://github.com/hoangsnowy/dotnetinterviewquestions)           | Curated .NET interview question bank with follow-ups and sample answers. **(Highlighted)**                      |
-| [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator)                           | Workflow orchestration system for managing complex business processes.                                          |
-| [pgp-sftp-lab-demo](https://github.com/hoangsnowy/pgp-sftp-lab-demo)                         | Demonstration of PGP encryption and SFTP integration with Vue frontend.                                         |
-| [pi-embedded-opt](https://github.com/hoangsnowy/pi-embedded-opt)                             | Embedded optimization solutions for Raspberry Pi and edge devices.                                              |
+| [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator)                           | Workflow orchestration system for managing complex business processes.   |                 |                                        |
+| [pgp-sftp-lab-demo](https://github.com/hoangsnowy/pgp-sftp-lab-demo)                         | Demonstration of PGP encryption and SFTP integration with Vue frontend.                                         |                                         |
 
 ---
 
