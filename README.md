@@ -35,12 +35,6 @@
 
 ## 🌟 Highlighted Project
 
-### [dotnetinterviewquestions](https://github.com/hoangsnowy/dotnetinterviewquestions)  
-A comprehensive **.NET Back-End Interview Question Bank** with dynamic follow-up questions and suggested sample answers—tailored on the fly to each candidate’s CV. Ideal for preparing or conducting face-to-face interviews.
-
----
-
-
 | Repository                                                                                   | Description                                                                                                     |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator)                           | Workflow orchestration system for managing complex business processes.   |                 |                                        |
