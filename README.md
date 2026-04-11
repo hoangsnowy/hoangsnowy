@@ -68,8 +68,21 @@ Application Layer
 | Repository | Role |
 |---|---|
 | [jaina-dotnet](https://github.com/hoangsnowy/jaina-dotnet) | Architect and primary builder of a modular .NET framework |
-| [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator) | Workflow orchestration architecture for business processes |
+| [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator) | Creator of a reusable .NET workflow orchestration library |
 | [pgp-sftp-lab-demo](https://github.com/hoangsnowy/pgp-sftp-lab-demo) | Secure integration blueprint with PGP and SFTP |
+
+---
+
+## Highlight Library: FlowOrchestrator
+
+`FlowOrchestrator` is a focused orchestration library for modeling multi-step business flows with clean, testable execution paths.
+
+[![GitHub](https://img.shields.io/badge/GitHub-FlowOrchestrator-181717?style=flat-square&logo=github)](https://github.com/hoangsnowy/FlowOrchestrator)
+
+**Why it is useful**
+- Encapsulates workflow steps and transitions into explicit flow definitions
+- Keeps orchestration concerns separate from application and infrastructure code
+- Makes complex business processes easier to reason about and test
 
 ---
 
