@@ -16,7 +16,7 @@ I design scalable architecture that helps teams ship faster, safer, and with les
 
 ---
 
-## Architect Positioning
+## My Focus
 
 I am a `Software Developer` with 10+ years building production systems on `.NET` and `Azure`.
 
