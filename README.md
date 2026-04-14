@@ -1,7 +1,7 @@
 <h1 align="center">Nguyen Minh Hoang | hoangsnowy</h1>
 
 <p align="center">
-  <b>Software Architect | .NET Platform | Cloud-Native Systems</b>
+  <b>Software Developer | .NET Platform | Cloud-Native Systems</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I design scalable architecture that helps teams ship faster, safer, and with les
 
 ## Architect Positioning
 
-I am a `Software Architect` with 10+ years building production systems on `.NET` and `Azure`.
+I am a `Software Developer` with 10+ years building production systems on `.NET` and `Azure`.
 
 My focus is to turn complex business domains into clear technical architecture that teams can implement and evolve with confidence.
 
