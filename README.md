@@ -3,8 +3,6 @@
 <p align="center">
   <b>Software Developer | .NET Platform | Cloud-Native Systems</b>
 </p>
-<p align="center"> 😄🤩🤖😛 </p>
-
 <p align="center">
 I design scalable architecture that helps teams ship faster, safer, and with less long-term technical debt.
 </p>
