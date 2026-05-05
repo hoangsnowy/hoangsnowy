@@ -68,7 +68,6 @@ Application Layer
 |---|---|
 | [jaina-dotnet](https://github.com/hoangsnowy/jaina-dotnet) | Architect and primary builder of a modular .NET framework |
 | [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator) | Creator of a reusable .NET workflow orchestration library |
-| [pgp-sftp-lab-demo](https://github.com/hoangsnowy/pgp-sftp-lab-demo) | Secure integration blueprint with PGP and SFTP |
 
 ---
 
