@@ -68,6 +68,7 @@ Application Layer
 |---|---|
 | [jaina-dotnet](https://github.com/hoangsnowy/jaina-dotnet) | Architect and primary builder of a modular .NET framework |
 | [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator) | Creator of a reusable .NET workflow orchestration library |
+| [loopbridge](https://github.com/hoangsnowy/loopbridge)| Desktop tool to migrate Confluence space pages to Microsoft Loop via clipboard-assisted paste (Loop has no content API yet). |
 
 ---
 
