@@ -66,8 +66,9 @@ Application Layer
 
 | Repository | Role |
 |---|---|
-| [jaina-dotnet](https://github.com/hoangsnowy/jaina-dotnet) | Architect and primary builder of a modular .NET framework |
 | [FlowOrchestrator](https://github.com/hoangsnowy/FlowOrchestrator) | Creator of a reusable .NET workflow orchestration library |
+| [AgentOS]([https://github.com/hoangsnowy/FlowOrchestrator](https://github.com/hoangsnowy/AgentOs)) | Modular .NET 10 platform for software-delivery workflows. Orchestrator + specialist agents (Requirements → Code → Tests → QA) on a provider-agnostic LLM gateway (Claude · Azure OpenAI · MAF · RemoteAgent), multi-tenant runtime with row-level isolation, Blazor "Agent Studio" UI.|
+| [jaina-dotnet](https://github.com/hoangsnowy/jaina-dotnet) | Architect and primary builder of a modular .NET framework |
 | [loopbridge](https://github.com/hoangsnowy/loopbridge)| Desktop tool to migrate Confluence space pages to Microsoft Loop via clipboard-assisted paste (Loop has no content API yet). |
 
 ---
